@@ -1,0 +1,82 @@
+@charset "UTF-8";
+/*CSS Document*/
+
+header{
+	font-family: solvent, sans-serif;
+font-style: normal;
+font-weight: 400;
+background-color: black;
+}
+
+body{
+	.m-plus rounded 1c-regular {
+  font-family: "M PLUS Rounded 1c", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+
+}
+
+div{
+		  font-size: 15rem;
+	    text-align: center;
+      height:50vh;
+      line-height: 50vh;
+	    color: #fcedd8;
+	    background: black;
+	   	font-family: solvent, sans-serif;
+	    font-weight: 700;
+      text-shadow: 5px 5px 0px #eb452b, 
+                  10px 10px 0px #EE24FF, 
+                  15px 15px 0px #17BAFF, 
+                  20px 20px 0px #87FF26, 
+                  25px 25px 0px #FF8800, 
+                  30px 30px 0px #FF250D, 
+                  35px 35px 0px #FF250D, 
+                  40px 40px 0px #FF250D, 
+                  45px 45px 0px #FF250D;
+}
+
+
+h2{
+	font-family: solvent, sans-serif;
+	text-align: center;
+            font-size: 50px;
+            background: linear-gradient(to left,
+                    #EE24FF,
+                    #17BAFF,
+                    #87FF26,
+                    #FF8800,
+                    #FF250D);
+            -webkit-background-clip: text;
+            color: transparent;
+}
+h3{
+	color: #87FF26;
+	font-family: "M PLUS Rounded 1c", sans-serif;
+	font-size: xx-large;
+
+}
+
+h4{
+	color: #fcedd8;
+	font-family: "M PLUS Rounded 1c", sans-serif;
+
+}
+
+li{
+	color: #fcedd8;
+	font-family: "M PLUS Rounded 1c", sans-serif;
+	cursor: crosshair;
+
+}
+
+a{
+	color: #fcedd8;
+	text-decoration: none;
+	cursor: crosshair;
+}
+
+html {background-color: black}
