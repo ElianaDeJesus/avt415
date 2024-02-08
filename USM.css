@@ -1,0 +1,44 @@
+@charset "UTF-8";
+/*CSS Document*/
+
+body{
+	background-color: black;
+}
+
+h1{font-family: blanket, sans-serif;
+font-style: normal;
+font-weight: 300;
+color: #A395FA;
+font-size: 4rem;
+margin-left: 30px;
+margin-right: 30px;
+text-align: center;
+}
+
+h2{font-family: blanket, sans-serif;
+font-style: normal;
+font-weight: 300;
+color: #96C8FA;
+font-size: 3rem;
+margin-left: 30px;
+margin-right: 30px;        
+}
+
+h3{font-family: blanket, sans-serif;
+font-style: normal;
+font-weight: 300;
+color: #D1ACFC;
+font-size: 3rem;
+margin-left: 30px;
+margin-right: 30px;   
+text-align: center;     
+}
+
+p{font-family: blanket, sans-serif;
+font-style: normal;
+font-weight: 300;
+color: #BFB6FC;
+font-size: 2rem;
+margin-left: 30px;
+margin-right: 30px;
+}
